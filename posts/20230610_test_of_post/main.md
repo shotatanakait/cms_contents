@@ -19,5 +19,5 @@ Copyright: (C) 2023 Shota Tanaka
   
 ## ドキュメント
 
-[pdf_test.pdf](pdf_test.pdf)
-[Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
+- [pdf_test.pdf](pdf_test.pdf)
+- [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
