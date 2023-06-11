@@ -5,7 +5,7 @@ Copyright: (C) 2023 Shota Tanaka
 
 # img ファイルの埋め込みテスト
 
-update test
+update test ver.2
 
 ## Twitter
 
