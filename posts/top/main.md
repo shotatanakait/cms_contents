@@ -5,5 +5,5 @@ Copyright: (C) 2023 Shota Tanaka
 
 # cms
 
-制作中です。
+現在、制作中です。
 
