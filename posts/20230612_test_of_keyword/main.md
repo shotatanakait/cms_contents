@@ -10,3 +10,5 @@ Copyright: (C) 2023 Shota Tanaka
 shell programming by bash shellscript
 
 this cms is made of bash shellscript
+
+update test for keyword list
