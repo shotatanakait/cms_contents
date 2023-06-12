@@ -11,4 +11,4 @@ shell programming by bash shellscript
 
 this cms is made of bash shellscript
 
-update test for keyword list, again.
+update test for keyword list, 3 times.
