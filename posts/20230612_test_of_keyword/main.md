@@ -11,4 +11,4 @@ shell programming by bash shellscript
 
 this cms is made of bash shellscript
 
-keyword debug1
+keyword debug2
