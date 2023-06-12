@@ -10,3 +10,5 @@ Copyright: (C) 2023 Shota Tanaka
 navigationの動作確認です。
 
 navigationの動作確認2
+
+サイドバーの動作確認
