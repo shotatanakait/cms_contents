@@ -1,5 +1,5 @@
 ---
-keywords: cms, shell, bash, shellscript
+Keywords: cms, shell, bash, shellscript
 Copyright: (C) 2023 Shota Tanaka
 ---
 

@@ -1,5 +1,5 @@
 ---
-keywords: cms, bash
+Keywords: cms, bash
 Copyright: (C) 2023 Shota Tanaka
 ---
 

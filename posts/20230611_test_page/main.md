@@ -1,5 +1,5 @@
 ---
-keywords:
+Keywords:
 Copyright: (C) 2023 Shota Tanaka
 ---
 
