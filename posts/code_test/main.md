@@ -48,10 +48,28 @@ seq 1 10 | awk '{print $1, $3}'
 
 ## 以下、再投稿です。
 
+```html
 <pre><code class="language-html">
+
 <!-- html -->
 <div id="test1>
   <h3>HTMLのタイトル</h3>
   <p class="center">これは段落です。</p>
 </div>
+
 </code></pre>
+```
+
+
+
+
+
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
