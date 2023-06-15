@@ -45,7 +45,13 @@ bash shellのテストです。
 seq 1 10 | awk '{print $1, $3}'
 ```
 
-テスト終了です。
 
-- 再投稿です。
+## 以下、再投稿です。
 
+<pre><code class="language-html">
+<!-- html -->
+<div id="test1>
+  <h3>HTMLのタイトル</h3>
+  <p class="center">これは段落です。</p>
+</div>
+</code></pre>
