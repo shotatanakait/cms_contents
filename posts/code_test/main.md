@@ -5,7 +5,7 @@ HTMLのテストです。
 
 ```html
 <!-- html -->
-<div id="test1>
+<div id="test1">
   <h3>HTMLのタイトル</h3>
   <p class="center">これは段落です。</p>
 </div>
