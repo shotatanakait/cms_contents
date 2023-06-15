@@ -6,9 +6,17 @@ HTMLのテストです。
 ```html
 <!-- html -->
 <div id="test1">
-  <h3>HTMLのタイトル</h3>
-  <p class="center">これは段落です。</p>
+    <h3>HTMLのタイトル</h3>
+    <p class="center">これは段落です。</p>
 </div>
+```
+
+```html
+    <!-- html -->
+    <div id="test1">
+        <h3>HTMLのタイトル</h3>
+        <p class="center">これは段落です。</p>
+    </div>
 ```
 
 ## CSS
