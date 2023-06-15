@@ -14,7 +14,7 @@ Copyright: (C) 2023 Shota Tanaka
 - pattern 2: markdown
 [https://youtu.be/EYRle3yQSdA](https://youtu.be/EYRle3yQSdA)
 
-### 動画の特長
+## 動画の特長
 - 短く簡潔
 - homebrewのinstallについて説明
 - 画面キャプチャ ＋ インカメ
