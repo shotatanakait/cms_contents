@@ -1,5 +1,8 @@
 # Code test
 
+## はじめに
+コードの埋め込みテストを行います。
+
 ## HTML
 HTMLのテストです。
 
@@ -11,19 +14,8 @@ HTMLのテストです。
 </div>
 ```
 
-```html
-    <!-- html -->
-    <div id="test1">
-        <h3>HTMLのタイトル</h3>
-        <p class="center">これは段落です。</p>
-    </div>
-```
 
-~~~~~~~
-if (a > 3) {
-  moveShip(5 * gravity, DOWN);
-}
-~~~~~~~
+
 
 ## CSS
 CSSのテストです。
@@ -60,14 +52,9 @@ seq 1 10 | awk '{print $1, $3}'
 ```
 
 
-## 以下、再投稿です。
+## まとめ
 
-```html
-<div>
-  <h3>test</h3>
-  <p>paragraph</p>
-</div>
-```
+確認は以上です。
 
 
 
