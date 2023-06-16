@@ -1,3 +1,8 @@
+---
+Keywords: code, programming, test
+Copyright: (C) 2023 Shota Tanaka
+---
+
 # Code test
 
 ## はじめに
