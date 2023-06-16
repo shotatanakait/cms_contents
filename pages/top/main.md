@@ -1,9 +1,11 @@
 ---
-Keywords:
+Keywords: top, blog, Linux
 Copyright: (C) 2023 Shota Tanaka
 ---
 
-# this is pages/top
+# CMS BLOG
 
-Write contents here.
+このブログシステムは以下の書籍をベースにbashのシェルスクリプトでその大半を構築しています。
+筆者のbashに関する知識レベルは多少のLinxコマンドやVimが使用できるものの限りなく0に近しく、もちろん他のシェルとの区別もついていません。
 
+筆者のような初心者でも本書籍は大変理解しやすくシステムを構築する手順を一つずつ追っていくことができました。
