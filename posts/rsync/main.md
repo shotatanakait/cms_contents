@@ -1,3 +1,7 @@
+---
+Keywords: rsync, Linux, コマンド, shell, bash, zsh
+Copyright: (C) 2023 Shota Tanaka
+---
 
 # rsync
 
