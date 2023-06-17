@@ -5,3 +5,18 @@ links:
     href: 'https://github.com/shotatanakait/cms'
   - text: 'PORTFOLIO'
     href: 'https://portfolio1.shotatanaka.org'
+
+sociallinks:
+  - icon: 'fa-square-twitter'
+    href: 'https://twitter.com/nakasho0619'
+    color: '#4284f5'
+  - icon: 'fa-instagram'
+    href: 'https://www.instagram.com/shotatanakait/'
+    color: '#6d0f80'
+  - icon: 'fa-square-github'
+    href: 'https://github.com/shotatanakait'
+    color: '#222e3f'
+  - icon: 'fa-youtube'
+    href: 'https://www.youtube.com/@shotatanakait'
+    color: '#c61527'
+
