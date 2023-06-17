@@ -26,4 +26,5 @@ Copyright: (C) 2023 Shota Tanaka
 ```bash
 rsync -av <from> <to>
 ```
+
 以上です。
