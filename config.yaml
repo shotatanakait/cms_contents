@@ -9,14 +9,14 @@ links:
 sociallinks:
   - icon: 'fa-square-twitter'
     href: 'https://twitter.com/nakasho0619'
-    color: '#4284f5'
+    style: 'style="color: #4284f5;"'
   - icon: 'fa-instagram'
     href: 'https://www.instagram.com/shotatanakait/'
-    color: '#6d0f80'
+    style: 'style="color: #6d0f80;"'
   - icon: 'fa-square-github'
     href: 'https://github.com/shotatanakait'
-    color: '#222e3f'
+    style: 'style="color: #222e3f;"'
   - icon: 'fa-youtube'
     href: 'https://www.youtube.com/@shotatanakait'
-    color: '#c61527'
+    style: 'style="color: #c61527;"'
 
