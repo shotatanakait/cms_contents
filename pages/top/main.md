@@ -31,3 +31,5 @@ CMSの構築に以下の書籍を参照。
 → <a href="https://github.com/sindresorhus/github-markdown-css" target="_blank" rel="noopener noreferrer">github-markdown-css</a>
 
 → <a href="https://highlightjs.org" target="_blank" rel="noopener noreferrer">highlight.js</a>
+
+→ <a href="https://fontawesome.com" target="_blank" rel="noopener noreferrer">fontawesome</a>
