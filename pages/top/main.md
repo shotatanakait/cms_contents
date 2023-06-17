@@ -10,7 +10,7 @@ Copyright: (C) 2023 Shota Tanaka
 ### Overview
 手書きですが構成イメージは以下。
 
-![IMG_3034](https://github.com/shotatanakait/cms_contents/assets/40833446/d53bb30e-b695-4543-a60d-bba13a960a4c)
+![IMG_3034 min](https://github.com/shotatanakait/cms_contents/assets/40833446/f1c55f8e-9461-408f-b911-5e6671217e5b)
 
 ### Server
 サーバはConoha VPSを使用。
