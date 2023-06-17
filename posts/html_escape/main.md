@@ -15,8 +15,10 @@ Copyright: (C) 2023 Shota Tanaka
 `javascript`のテストです。
 <pre><code class="lang-javascript">
   console.log("&lt;h1&gt;this is a test code.&lt;/h1&gt;");
+  
   const sampleFunc = () =&gt; {
     console.log("sampleFunc is called.");
   };
+  
   sampleFunc();
 </code></pre>
