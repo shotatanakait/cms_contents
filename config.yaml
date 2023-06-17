@@ -1,7 +1,7 @@
 links:
-  - text: 'TOP'
-    href: '/?page=top'
-  - text: 'REPO'
-    href: 'https://github.com/shotatanakait/cms'
   - text: 'BLOG'
     href: '/?post'
+  - text: 'REPOSITORY'
+    href: 'https://github.com/shotatanakait/cms'
+  - text: 'PORTFOLIO'
+    href: 'https://portfolio1.shotatanaka.org'
