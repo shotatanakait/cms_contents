@@ -4,7 +4,7 @@ links:
   - text: 'REPOSITORY'
     href: 'https://github.com/shotatanakait/cms'
   - text: 'PORTFOLIO'
-    href: '/?post=portfolio'
+    href: '/?pages=portfolio'
 
 sociallinks:
   - icon: 'fa-square-twitter'
