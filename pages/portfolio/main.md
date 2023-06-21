@@ -11,7 +11,7 @@ Copyright: (C) 2023 Shota Tanaka
 
 下記、認証情報をご利用ください。
 
-```
+```text
 ユーザ名: pf1_testuser
 パスワード: pf1_testpass
 ```
