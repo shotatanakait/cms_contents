@@ -5,7 +5,7 @@ Copyright: (C) 2023 Shota Tanaka
 
 # PORTFOLIO
 
-- [portfolio1](https://portfolio1.shotatanaka.org)
+→ <a href="https://portfolio1.shotatanaka.org" target="_blank" rel="noopener noreferrer">portfolio1</a>
 
 ポートフォリオにはBasic認証をかけています。
 
