@@ -2,7 +2,7 @@ links:
   - text: 'BLOG'
     href: '/?post'
   - text: 'REPOSITORY'
-    href: 'https://github.com/shotatanakait/cms'
+    href: '/?page=repository'
   - text: 'PORTFOLIO'
     href: '/?page=portfolio'
 
